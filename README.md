@@ -1,3 +1,11 @@
+# 👋 Hi, I'm [Your Name]
+
+## 🚀 Technology Stack
+
+```mermaid
+graph TD
+    You["👨‍💻 Developer Profile"]
+
     %% Backend
     You --> Backend
     Backend --> Go
