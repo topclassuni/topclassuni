@@ -1,6 +1,3 @@
-graph TD
-    You["👨‍💻 Developer Profile"]
-
     %% Backend
     You --> Backend
     Backend --> Go
