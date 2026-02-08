@@ -1,59 +1,43 @@
-```mermaid
-graph LR
-    You["👨‍💻 Developer Profile"]
+#  I'm Dileesha Abilash
 
-    %% Backend
-    You --> Backend
-    Backend --> GoLang["Go"]
-    GoLang --> GoHTTP["HTTP"]
-    GoLang --> Gin
+##  Education
+- **Sri Lankan A/L** — AAB (Maths Stream)  
+- **Sri Lankan O/L** — 9 A’s  
 
-    Backend --> KotlinLang["Kotlin"]
-    KotlinLang --> SpringBoot["Spring Boot"]
+##  Projects (Delivered to Production)
+- [Real Time Food Ordering System](https://github.com/yourusername/realtime-food-ordering-system)  
+- [Luxury Healthcare](https://github.com/yourusername/luxury-healthcare)  
 
-    Backend --> JSBackend["JavaScript"]
-    JSBackend --> Express
-    JSBackend --> Bun
 
-    Backend --> PHP
-    PHP --> WPBackend["WordPress (Backend)"]
+##  Technology Stack
 
-    %% Frontend
-    You --> Frontend
-    Frontend --> React
-    Frontend --> Svelte
-    Frontend --> NextJS["Next.js"]
-    Frontend --> WPFrontend["WordPress (Frontend)"]
+###  Backend
+- **Go** — HTTP, Gin  
+- **Kotlin** — Spring Boot  
+- **JavaScript** — Express, Bun  
+- **PHP** — WordPress  
 
-    %% Component Libraries
-    You --> ComponentLibs["Component Libraries"]
-    ComponentLibs --> ShadCN["shadcn/ui"]
-    ComponentLibs --> DaisyUI
+###  Frontend
+- **React**  
+- **Svelte**  
+- **Next.js**  
+- **WordPress**  
 
-    %% General Purpose
-    You --> GeneralPurpose["General Purpose Languages"]
-    GeneralPurpose --> Python
-    GeneralPurpose --> JS["JavaScript"]
-    GeneralPurpose --> TS["TypeScript"]
+###  Component Libraries
+- **shadcn/ui**  
+- **DaisyUI**  
 
-    %% Databases
-    You --> Databases
-    Databases --> SQL
-    SQL --> PostgreSQL
-    SQL --> MySQL
-    SQL --> SQLite
+###  General Purpose Languages
+- **Python**  
+- **JavaScript**  
+- **TypeScript**  
 
-    Databases --> DocumentDB["Document DB"]
-    DocumentDB --> MongoDB
+###  Databases
+- **SQL**: PostgreSQL, MySQL, SQLite  
+- **Document DB**: MongoDB  
+- **Graph DB**: Neo4j  
+- **Realtime DB**: PocketBase  
 
-    Databases --> GraphDB["Graph DB"]
-    GraphDB --> Neo4j
-
-    Databases --> RealtimeDB["Realtime DB"]
-    RealtimeDB --> PocketBase
-
-    %% Mobile
-    You --> Mobile
-    Mobile --> ReactNative["React Native"]
-
+###  Mobile
+- **React Native**  
 
